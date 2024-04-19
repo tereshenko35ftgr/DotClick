@@ -1,5 +1,6 @@
 # DotClick
 My first program on GitHub. Be sure to read the ReadMe!
+This app makes beautiful text that can be flexibly customized.
 
 Readme:
   1) Text 
